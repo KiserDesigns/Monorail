@@ -32,7 +32,7 @@
         "saturation_steps": 8,
         "brightness_steps": 8,
         "animations": {
-            "all": false,
+        "all": false,
 		"static_gradient": true,
 		"breathing": true,
 		"rainbow_swirl": true,
