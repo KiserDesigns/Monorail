@@ -49,8 +49,18 @@ Vial firmware was built on this commit of the NCKiser fork of Vial, based on QMK
 ![IMG_1232](https://github.com/KiserDesigns/Monorail/assets/96897936/b82afb3d-27fb-4085-8851-1b439a2f78e6)
 
 ## Step 3: Optional Part Removal
+### The top half-numrow can be optionally removed for a 4-row layout or to fit in standard minivan cases.
+### The half-numrow on the PCB and Base can be broken by hand:
 
+### The plate will need to be separated using needle-nose pliers:
 
+### If not using Hull-mount, the extra tabs can be removed using needle-nose pliers:
 
+### If fitting the PCB into a V4N4G0N case, the right USB port may need to be removed.
+
+### This will take a bit of force, and the USB port might be damaged while removing. That is okay.
+
+## Stem 4: Firmware
+### Vial firmware is pre-flashed on each PCB, and the default layout is hosted here.
 
 
